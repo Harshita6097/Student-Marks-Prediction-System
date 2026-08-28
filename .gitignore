@@ -9,3 +9,13 @@ __pycache__/
 .env
 .DS_Store
 Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# ML artifacts - use Git LFS or store externally
+catboost_info/
+
+# Egg info
+*.egg-info/
